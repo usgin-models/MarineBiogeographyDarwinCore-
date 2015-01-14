@@ -1,0 +1,4 @@
+# MarineBiogeographyDarwinCore-
+content model for feeding data into the Ocean Biogeographic Information System
+
+Marine Biogeography (MBG) extensions to Darwin Core - There’s a [view of the 2.0 schema](http://snapper.colorado.edu/ObisUsa/portal/XsdReader.php), which comes from an XSD we already have. There is a new 2.1 version that we are implementing right now that includes a visual line transect survey concept and some other new elements. This is extensively documented, and we should be able to fairly readily get it into the appropriate format for introduction to the USGS registry. These guys have kind of “invented” their own terms for things, so they actually refer to their schema as an “enrollment journal” in some contexts, because their work has been all about enrolling other people’s data into the Ocean Biogeographic Information System - the primary implementation of this model
